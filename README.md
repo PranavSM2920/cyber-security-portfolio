@@ -12,13 +12,6 @@ Cyber Security Analyst Student
 
 ## Certifications
 - Google Cybersecurity
-- Cisco Networking
-- TryHackMe
-
-## Projects
-- Port Scanner
-- Password Strength Checker
-- Network Packet Analyzer
 
 ## Reports & Writeups
 - Vulnerability Assessment Report
